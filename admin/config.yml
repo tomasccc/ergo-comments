@@ -2,7 +2,7 @@ local_backend: false
 locale: es
 backend:
   name: github
-  repo: tomasccc/ergo-template
+  repo: tomasccc/ergo-comments
   branch: main
   base_url: https://decap-proxy.tomycaruso.workers.dev
   open_authoring: true
